@@ -12,7 +12,7 @@ Exploratory Data Analysis (EDA) on 148 Zomato restaurant listings using Python, 
 
 | Restaurant types | Votes by type | Ratings distribution |
 |---|---|---|
-| ![Types](images/restaurant-types.png) | ![Votes][([images/votes-by-type.png](https://github.com/Anil-analytics-maker/zomato-restaurant-eda-python/blob/ce88c8c2f3ee7daf7e583c8b74fdf1969c3d539e/votes-by-type.png)) ](https://github.com/Anil-analytics-maker/zomato-restaurant-eda-python/blob/ce88c8c2f3ee7daf7e583c8b74fdf1969c3d539e/votes-by-type.png)| ![Ratings](images/ratings-distribution.png) |
+| ![Types](images/restaurant-types.png) | ![Votes][([images/votes-by-type.png] ![Ratings](images/ratings-distribution.png) |
 
 | Cost for two | Online vs offline ratings |
 |---|---|
